@@ -1,4 +1,4 @@
-name: HSICrop_test
+name: HSICrop
 channels:
   - pytorch
   - defaults
@@ -59,4 +59,4 @@ dependencies:
     - tifffile==2020.9.3
     - tqdm==4.64.0
     - zipp==3.6.0
-prefix: ./envs/HSICrop_test
+prefix: ./envs/HSICrop
