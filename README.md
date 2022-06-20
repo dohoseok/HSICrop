@@ -6,6 +6,7 @@
 
 2. Prepare dataset
 > install unzip on your machine (apt-get install unzip)
+> 
 > $sh download_data.sh
 
 3. Edit Configure File (config.py)
