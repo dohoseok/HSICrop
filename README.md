@@ -1,6 +1,7 @@
 # HSICrop
 1. Create Conda Environment
 > $conda env create --file environment.yaml python=3.6
+
 > $conda activate HSICrop
 
 2. Prepare dataset
